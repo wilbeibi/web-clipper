@@ -23,6 +23,7 @@
 - [Github](https://github.com)
 - [Notion](https://www.notion.so/)
 - [有道](https://note.youdao.com/)
+- [ ] TODO: Add support for Dropbox Paper
 
 ### Develop
 
